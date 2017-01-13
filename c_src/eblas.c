@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "erl_nif.h"
-#include <atlas/cblas.h>
+#include <cblas.h>
 
 #define MAX(a,b) (((a)>(b))?(a):(b))
 
